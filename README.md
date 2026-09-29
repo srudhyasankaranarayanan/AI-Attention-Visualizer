@@ -251,7 +251,9 @@ This project can be used for learning and demonstrating:
 
 ## Screenshots
 <img width="1063" height="647" alt="image" src="https://github.com/user-attachments/assets/1d81225c-65b6-4d6c-b5b3-02c0443a6d74" />
-<img width="324" height="646" alt="image" src="https://github.com/user-attachments/assets/dae3e35b-3390-4683-abc5-7947dfa9ca73" />
+<img width="739" height="728" alt="image" src="https://github.com/user-attachments/assets/2d53ca19-e38d-40bd-bb78-3d1e81f59d4f" />
+<img width="762" height="732" alt="image" src="https://github.com/user-attachments/assets/7702ad5c-012d-4e85-98a3-d143ada8d9e3" />
+<img width="773" height="436" alt="image" src="https://github.com/user-attachments/assets/f665dc19-3386-40dc-b6bf-ee04d87654e1" />
 
 ## Future Improvements
 
