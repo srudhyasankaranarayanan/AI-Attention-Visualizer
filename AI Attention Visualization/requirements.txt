@@ -1,6 +1,0 @@
-streamlit
-numpy
-pillow
-pytesseract
-sentence-transformers
-torchvision
